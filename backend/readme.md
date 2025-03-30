@@ -12,3 +12,13 @@ python3 /Users/r-shibata/Documents/projects/react-flask-demo/backend/hello.py
 ```
 でサーバーを起動
 
+3.
+```
+brew services start postgresql
+```
+でPostgreSQLを起動
+
+終了は次の通り
+```
+brew services stop postgresql
+```

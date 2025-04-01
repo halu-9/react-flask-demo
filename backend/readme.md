@@ -8,7 +8,7 @@
 
 2.
 ```
-python3 /Users/r-shibata/Documents/projects/react-flask-demo/backend/hello.py
+python3 hello.py
 ```
 でサーバーを起動
 
